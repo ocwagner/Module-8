@@ -19,6 +19,6 @@ Assignment rubric:
 - 1 points: R script for creating your data visualization was pushed to your remote GitHub repo, and is located in a subdirectory called `R` or `code`
 - 1 point extra credit: post your #TidyTuesday plots to Twitter
 
-**Extra credit: Createa a hideous and ineffective plot**
+**Extra credit: Create an extremely ugly plot**
 
 Using any dataset you'd like (e.g. the `tidytuesday` dataset you worked with for the homework assignment), create the ugliest plot you can come up with. The plot should be painful to look at and defy all of the key principles of data visualization. Post your plot to the discussion forum dedicated to this extra credit assignment on Moodle. For creating an ugly plot, you'll receive extra credit of 10-20% on your lowest quiz grade. Your peers will vote to determine who created the ugliest plots. The top 3 will get 20% extra on their lowest quiz grades and the others will receive 10%.
