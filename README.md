@@ -2,11 +2,12 @@
 
 **Homework: Create quality visualizations**
 
-For this homework assignment, you will create **two** data visualizations that adhere to the principles and guidelines presented in the video lectures and previous reading by Kelleher and Wagener (2011). Specifically, you will (1) improve the plot you previously made for your original `#TidyTuesday` assignment, and (2) create one additional plot from the same dataset that you originally worked with. Plots (1) and (2) should convey different messages - for example, if plot (1) is a line graph made with geom_line(), plot (2) should **not** be the same as (1) except an area plot made with geom_area().
+For this homework assignment, you will create **two** data visualizations that adhere to the principles and guidelines presented in the video lectures and previous reading by Kelleher and Wagener (2011). You will create two plots from one of the `tidytuesday` datasets that you did not analyze as part of your first `#TidyTuesday` assignment in Module 4. Plots (1) and (2) should convey different messages - for example, if plot (1) is a line graph made with geom_line(), plot (2) should **not** be the same as (1) except an area plot made with geom_area().
 
 Your two plots should include a color scale(s) that you've selected or created using a scale function. Specifically, you should use at least one of the following: (1) a brewer palette, (2) a viridis palette, (3) discrete colors selected via ColorBrewer2, or (4) discrete colors selected by choosing colors from the R Color Cheat Sheet.
 
 You will post your visualizations to a discussion forum on Moodle. In your post, include the following:
+- Your two plots as PDF attachments
 - A link to the GitHub repository that includes your script(s) (this may be your forked `tidytuesday` repository). Your script(s) should be in a subdirectory named `R` or `code`. Make sure the names of the script(s) make it clear which scripts were used to create the plots for this assignment.
 - Rationale on the plot types you selected
 - How your plot adheres to the key principles of data visualization summarized in the video lecture
