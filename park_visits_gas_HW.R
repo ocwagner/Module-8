@@ -79,6 +79,7 @@ ggplot(data=subset_US,(aes(gas_constant,visit_per_cap, size=10)))+
   guides(size="none")+
   xlab("gas price - inflation adjusted dollars")+
   ylab("US park visits per cap")+
+  ggtitle("Impact of gas prices on US park visits per capita")+
   theme_clean()
    
 
