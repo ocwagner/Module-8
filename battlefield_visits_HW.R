@@ -14,7 +14,8 @@ head(park_data)
 military_sites <- c("National Battlefield", "National Battlefield Park", "National Military Park")
 
 ### data description
-#park_data shows visits by year to all US
+#park_data shows visits by year to all US parks, dating back to eary 1900s, 
+#broken out by region, year and park type
 
 ###Filter by military sites and calc percent visits
 
