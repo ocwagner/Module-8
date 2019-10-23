@@ -13,6 +13,9 @@ head(park_data)
 
 military_sites <- c("National Battlefield", "National Battlefield Park", "National Military Park")
 
+### data description
+#park_data shows visits by year to all US
+
 ###Filter by military sites and calc percent visits
 
 filter(park_data,unit_type %in% military_sites, year==2016)%>%

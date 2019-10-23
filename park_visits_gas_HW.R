@@ -18,6 +18,12 @@ head(gas_price)
 population<-read_csv('data/2019/2019-09-17/state_pop.csv')
 View(population)
 
+### data description
+#park_data shows visits by year to all US parks, dating back to eary 1900s, 
+#broken out by region, year and park type
+#gas_price shows actual and inflation adjusted gas prices going back to early 1900s
+#population provides state level population data
+
 ### US population
 
 population%>%
